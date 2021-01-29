@@ -1,0 +1,4 @@
+bin
+db
+.vscode
+mosquitto/log/mosquitto.log

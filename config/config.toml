@@ -1,0 +1,9 @@
+[mqtt]
+broker = "localhost"
+port = 1883
+topic = "test/topic"
+user = "user"
+password = "password"
+
+[sqlite]
+dsn = "./db/data.db"
